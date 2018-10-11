@@ -1,0 +1,25 @@
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\SodaStudentProject.exe
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\SodaStudentProject.xml
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\SodaStudentProject.pdb
+C:\dmcelroy\Soda\SuperSoda\bin\Debug\SodaStudentProject.exe
+C:\dmcelroy\Soda\SuperSoda\bin\Debug\SodaStudentProject.pdb
+C:\dmcelroy\Soda\SuperSoda\bin\Debug\SodaStudentProject.xml
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\ResolveAssemblyReference.cache
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\SodaStudentProject.frmSoda.resources
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\SodaStudentProject.Resources.resources
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\dmcelroy\Soda\SuperSoda\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\SodaStudentProject.exe
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\SodaStudentProject.xml
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\SodaStudentProject.pdb
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\bin\Debug\SodaStudentProject.exe
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\bin\Debug\SodaStudentProject.pdb
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\bin\Debug\SodaStudentProject.xml
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\ResolveAssemblyReference.cache
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\SodaStudentProject.frmSoda.resources
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\SodaStudentProject.Resources.resources
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\ResGen.read.1.tlog
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\ResGen.write.1.tlog
+F:\OS User Folders\Desktop\SuperSoda\SuperSoda\obj\Debug\SodaStudentProject.abtSoda.resources

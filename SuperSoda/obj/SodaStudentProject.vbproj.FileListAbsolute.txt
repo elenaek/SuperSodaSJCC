@@ -1,0 +1,10 @@
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\bin\Debug\SodaStudentProject.exe
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\bin\Debug\SodaStudentProject.pdb
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\bin\Debug\SodaStudentProject.xml
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\obj\Debug\SodaStudentProject.frmSoda.resources
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\obj\Debug\SodaStudentProject.Resources.resources
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\obj\Debug\SodaStudentProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\obj\Debug\SodaStudentProject.exe
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\obj\Debug\SodaStudentProject.xml
+C:\Documents and Settings\Dan\My Documents\Visual Studio 2005\Projects\SodaStudentProject\SuperSoda\obj\Debug\SodaStudentProject.pdb

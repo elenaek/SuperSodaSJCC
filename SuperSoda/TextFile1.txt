@@ -1,0 +1,90 @@
+Soda Machine Project
+
+Your job is to complete the soda machine project. You are to
+add code in the "StudentCode.vb" file for each of the routines.
+Do NOT modify any other of the files without permission from the
+instructor.
+
+===================================================================
+
+Here is a list of routines that you need to modify:
+
+1)  Public Sub CoinDeposited(ByVal CoinValue As Integer)
+		Input Parameter:  CoinValue
+				5, 10, or 25
+		This routine is called to notify you that a coin
+		has been deposited in the coin slot. You need to 
+		write the code to keep track of the amount deposited
+		and update the "Deposit Display".
+
+2)  Public Sub BillDeposited(ByVal BillValue As Integer)
+		Input Parameter:  BillValue
+				100
+		This routine is called to notify you that a bill
+		has been deposited in the bill slot. You need to 
+		write the code to keep track of the amount deposited
+		and update the "Deposit Display".
+
+3)  Public Sub ButtonPressed(ByVal ButtonNumber As Integer)
+		Input Parameter:   ButtonNumber
+			1, 2, 3 or 4
+		This routine is called to notify you that one of the
+		soda (or water) buttons has been pressed. It is your
+		job to check to see if enough money has been deposited.
+		If enough money has been deposited, call the DropSoda()
+		routine to drop a soda, compute the change, call the
+		DropCoin() routine zero or more times to drop coins in
+		the change slot, and clear the "Deposit Display"
+
+4)  Public Sub mnuPrint()
+		This routine is called when the Print Report menu item is
+		clicked. It is your job to create a printout showing
+		the count of each soda type sold, and the total revenue.
+
+5)  Public Sub mnuExit()
+		This routine is called when the Exit menu item is clicked.
+		It is your job to exit the program
+
+6)  Public Sub mnuSalesReport()
+		This routine is called when the View Sales Report menu
+		item is clicked. It is your job to create a display showing
+		the count of each soda type sold, and the total revenue.
+
+7)  Public Sub mnuInstructions()
+		This routine is called when the Display Instructions menu
+		item is clicked. It is your job to create a form that 
+		displays instructions showing the user how to deposit
+		coins and bills, select a soda, retrieve the soda and
+		any change that has been dropped.
+
+8)  Public Sub mnuAbout()
+		This routine is called when the About menu item has been
+		clicked. It is your job to create a form that displays
+		the name of the program, the instructor's name, your name,
+		and the date the project was completed.
+		
+===================================================================
+
+Here is a list of routines available for your use in completing
+the Soda Machine project.
+
+1) Public Sub DisplayDepositAmount(ByRef DepositAmount As Integer)
+		Input parameter:    DepositAmount
+		Call this routine with an integer representing the amount
+		deposited in cents. For example, 135 represents $1.35.
+		This routine will update the "Deposit Display" and will
+		convert cents into Dollars and Cents.
+
+2)  Public Sub DropNickle()
+		Call this routine to drop a nickle into the change slot
+
+3)  Public Sub DropDime()
+		Call this routine to drop a dime into the change slot
+
+4)  Public Sub DropQuarter()
+		Call this routine to drop a quarter into the change slot
+
+5)  Public Sub DropSoda(ByRef ButtonNumber As Integer)
+		Input Parameter:  Button Number
+				1, 2, 3, or 4
+		Call this routine to drop a soda into the dispenser.
